@@ -8,16 +8,45 @@
 	background-color: black;
 	justify-content: center;
 	-webkit-justify-content: center;
-
 }
 
 .flex-item {
 	background-color: white;
 	width: 30%;
 	margin: 10px;
-
+}
 body {
-	margin: 0
-	padding: 0;
+	margin: 0;
+	padding: 0; 
+	font-family: Arial, Helvetica, sans-serif;
 }
 
+header {
+	background-color: #82b3c9;
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+nav {
+	background-color: #b3e5fc;
+	height: 40%;
+	width: 100%;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	margin: 10px 5px 0 5px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color:#b3e5fc;
+}
+
+footer {
+	background-color: 
+}

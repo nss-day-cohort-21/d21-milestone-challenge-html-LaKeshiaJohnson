@@ -11,5 +11,4 @@ console.log("ourDogs", ourDogs);
 ourDogs.forEach(function(item){
 	console.log("name", item.name, item.age);
 	jediText += `<li>${item.name}<li>`;
-}
 });
