@@ -1,0 +1,23 @@
+
+/** Flex Box Styles **/
+
+.flex-container {
+	display: flex;
+	display: -webkit-flex;
+	width: 100%;
+	background-color: black;
+	justify-content: center;
+	-webkit-justify-content: center;
+
+}
+
+.flex-item {
+	background-color: white;
+	width: 30%;
+	margin: 10px;
+
+body {
+	margin: 0
+	padding: 0;
+}
+
