@@ -95,9 +95,10 @@ footer a {
 }
 
 .photo {
-	border-radius:100%;
+	border-radius: 30%;
 	display: block;
 	margin: 35px auto 0 auto;
+	border: 2px solid #b3e5fc;
 }
 
 .bio {
@@ -117,3 +118,4 @@ border-bottom: solid #82b3c9;
 .resources li a:hover {
 	color: #34515e;
 }
+
